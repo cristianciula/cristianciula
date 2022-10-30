@@ -1,5 +1,5 @@
 - 👋 Hello! I’m @cristianciula, a passionate QA Engineer striving for excellence (_not to be confused with perfection_).
-- 👀 I’m interested in Manual Testing, Test Automation and delivering high quality products to users.
+- 👀 I’m interested in Manual Testing, Test Automation and delivering high quality products to users worldwide.
 - 🌱 I’m currently learning Java and undergoing a Test Automation course using Selenium Webdriver with Java.
 
 <!---
